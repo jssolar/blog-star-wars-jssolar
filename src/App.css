@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-color: #ae9f20 !important;
+}
+
+.card-bg {
+  background-color: #0a0b1c;
+  color: aquamarine;
+}
+.boton-favorites{
+  color: turquoise;;
+}
+img{
+  margin: 0;
+  opacity: 0.9;
+ 
+}
+
+.card-principal{
+  /* box-shadow: 0px 0px 16px turquoise; */
+  /* transition:0.5s ease; */
+  background-color: #04ffabc4 !important;
+  gap: 16px !important;
+  margin: 16px;
+}
+
+.card-principal:hover{
+  box-shadow: 0px 0px 16px turquoise;
+  transition:0.5s ease;
+  background-color: #ae9f20 !important;
+}
